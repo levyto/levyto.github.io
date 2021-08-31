@@ -1,46 +1,60 @@
-## Welcome to GitHub Pages
+# Researcher
 
-Trying $$\sqrt{2}$$
+### [Demo Website](http://ankitsultana.com/researcher)
 
-```math
-s = \frac{\sigma}{\sqrt{n}}
+A clean, single column, monospace resume template built for jekyll
+
+### Installation
+
+Simply fork the repository and edit away.
+
+#### Installation via remote themes
+
+* Just setting `remote_theme: ankitsultana/researcher@gem` in `_config.yml` should work. Although in that case, I am not sure how
+you would build your site locally for testing. If you know how, open up an issue and let me know.
+* For more info, [refer this](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/).
+
+### Customization
+
+* You can edit the `.md` (markdown) files as you see fit. You can also add some other markdown file, say `foo.md` in the root directory of the repository. It will then be accessible like so `{{ url of your website }}/foo`.
+
+* You can of course remove `contact.md` if you don't want it
+
+* To set the heading, edit the `title` variable in `_config.yml`
+
+* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+
+```
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
 ```
 
-You can use the [editor on GitHub](https://github.com/levyto/levyto.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+* You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-### Markdown
+* To add a profile picture, make sure to give the image tag the class `profile-picture`. In other words,do it like so:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```html
+<img class="profile-picture" src="sherlock.jpg">
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* You can remove/customize the footer as you like by setting the
+appropriate variables in `_config.yml`
 
-### Jekyll Themes
+* (New in v1.2.0) You can add institute logo at the top, by setting `ins_logo` in `_config.yml`. If you want
+to adjust the logo's size, try setting `max-height` in `#ins-logo` in file `./_sass/_style.scss` to the desired
+value
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/levyto/levyto.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Institute Logo Image Sample](https://github.com/ankitsultana/assets/raw/master/ins-logo-sample.png)
 
-### Support or Contact
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### License
 
-<script type="text/javascript" async
-src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+[GNU GPL v3](https://github.com/bk2dcradle/researcher/blob/gh-pages/LICENSE)

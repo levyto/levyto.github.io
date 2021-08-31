@@ -1,1 +1,23 @@
-theme: jekyll-theme-minima
+title: Ing. Tomáš Levý
+url: "https://levyto.github.io/"
+# baseurl: "/researcher"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: #
+footer_text: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "Foo"
+   link: "/"
+ - name: "Bar"
+   link: "dummy.pdf"
+ - name: "Dummy"
+   link: "dummy"
