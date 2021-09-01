@@ -26,7 +26,7 @@ A co teprve ta stuha. Stuha, kterou je každý z trojice balónků uvázán, aby
 
 ## Examples
 
-$$ f'(x) = \lim_{x\rightarrow 0} \frac{f(x+h) - f(x)}{h} $$
+$$ f'(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{h} $$
 
 1. Foo
 2. Bar
