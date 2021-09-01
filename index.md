@@ -6,7 +6,7 @@ layout: default
 
 
 
-Ph.D. student, KME ZČU v Plzni
+Ph.D. student, KME / FAV / ZČU
 
 **Místnost:** &nbsp;UC 425 (Technická 8, Plzeň)
 
@@ -44,8 +44,8 @@ $$ f'(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{h} $$
 #include iostream
 
 int main() {
-	std::cout << "Hello world!" << cout::endl;
-	return 0;
+    std::cout << "Hello world!" << cout::endl;
+    return 0;
 }
 ```
 
@@ -54,6 +54,7 @@ bla | bla 	|
 1 	| i  	| 
 2 	| ii 	|
 3 	| iii	| 
+4 	| iv    |
 
 ---
 

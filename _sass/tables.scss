@@ -6,14 +6,15 @@ table {
 }
 table tr {
     border-top: 1px solid #cccccc;
-    background-color: white;
+    background-color: WhiteSmoke;
     margin: 0;
     padding: 0;
 }
 table tr:nth-child(2n) {
-    background-color: #f8f8f8;
+    background-color: #EBE4E2;
 }
 table tr th {
+    background-color: #EBE4E2;
     font-weight: bold;
     border: 1px solid #cccccc;
     text-align: left;
