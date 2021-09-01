@@ -11,16 +11,16 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Ubuntu Mono";/*"Inconsolata";*/
-    font-size: 18px;
+    font-family: "Ubuntu Mono" /*"Inconsolata"*/ ;
+    font-size: 17px;
     line-height: 1.2;
     height: 100%;
     background-color: AntiqueWhite; /*LightYellow*/
-    color: DarkRed; /*Maroon*/
+    color: Black /*DarkRed*/ /*Maroon*/;
 }
 a {
     text-decoration: none;
-    color: Black;
+    color: DarkRed;
 }
 a:hover {
     text-decoration: underline DarkRed; /*Maroon*/
@@ -38,7 +38,7 @@ hr {
 
 #author-name {
     font-size: 24px;
-    color: Black;
+    color: DarkRed;
     display: inline-block;
     padding: 7px 0 0px 0;
 }
