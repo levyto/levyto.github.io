@@ -8,7 +8,7 @@ layout: default
 
 Ph.D. student, KME ZČU v Plzni
 
-**Místnost:** &nbsp;UC 425
+**Místnost:** &nbsp;UC 425 (Technická 8, Plzeň)
 
 **E-mail:**  &emsp; [levyto@kme.zcu.cz](mailto:levyto@kme.zcu.cz)
 
