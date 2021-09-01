@@ -1,6 +1,5 @@
 title: Ing. Tomáš Levý
 url: "https://levyto.github.io/"
-# baseurl: "/researcher"
 
 markdown: kramdown
 
@@ -18,6 +17,6 @@ nav:
  - name: "Foo"
    link: "/"
  - name: "Bar"
-   link: "dummy.pdf"
+   link: "/pdfs/dummy.pdf"
  - name: "Dummy"
    link: "dummy"

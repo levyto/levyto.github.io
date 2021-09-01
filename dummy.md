@@ -1,6 +1,5 @@
 ---
 layout: default
-is_dummy: true
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed malesuada augue. Phasellus condimentum, tellus vel eleifend sollicitudin, arcu purus molestie leo, sed ultrices nunc leo vel dui. Praesent nec finibus risus, in facilisis felis. Duis posuere mollis nulla, vitae condimentum tellus pellentesque sit amet. Nullam vel mattis augue. Etiam vitae sapien vitae tellus dapibus tincidunt sed feugiat neque. Duis auctor mi gravida purus tincidunt aliquet. Nam vitae justo at eros facilisis venenatis. Aenean purus nulla, finibus sit amet nisi at, tincidunt rutrum ligula. Vivamus et velit luctus, dictum elit sed, efficitur erat.

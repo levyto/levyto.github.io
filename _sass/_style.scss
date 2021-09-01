@@ -11,17 +11,19 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Ubuntu Mono";/*"Inconsolata";*/
+    font-size: 18px;
+    line-height: 1.2;
     height: 100%;
-    background-color: AntiqueWhite;
-    color: DarkRed;
+    background-color: AntiqueWhite; /*LightYellow*/
+    color: DarkRed; /*Maroon*/
 }
 a {
     text-decoration: none;
     color: Black;
 }
 a:hover {
-    text-decoration: underline DarkRed;
+    text-decoration: underline DarkRed; /*Maroon*/
 }
 hr {
     border: 0;
@@ -38,9 +40,12 @@ hr {
     font-size: 24px;
     color: Black;
     display: inline-block;
+    padding: 7px 0 0px 0;
 }
 .navbar {
-    padding: 50px 0 50px 0;
+    font-size: 24px;
+    /*font-family: "Press Start 2P";*/
+    padding: 20px 0 50px 0;
 }
 .navbar-ul {
     display: inline-block;
@@ -69,6 +74,7 @@ hr {
 .container {
     max-width: $max-width;
     margin: auto;
+    text-align: justify;
 }
 .wrapper {
     min-height: 100%;
