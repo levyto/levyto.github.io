@@ -4,7 +4,7 @@ layout: default
 
 <!-- <img class="profile-picture" src="figs/doom2.png"> -->
 <a href="https://github.com/levyto" style="color: black;"> 
-    <i class="fa fa-github fa-4x" title="GitHub" style="float: right;"></i> 
+    <i class="fa fa-github fa-4x" title="GitHub" style="float: right;position: relative;margin: 10px 0 0 15px;"></i> 
 </a>
 <!-- <i class="fa fa-linux fa-4x"></i> -->
 
