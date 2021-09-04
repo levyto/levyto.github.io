@@ -2,15 +2,17 @@
 layout: default
 ---
 
-<img class="profile-picture" src="figs/doom2.png">
+<!-- <img class="profile-picture" src="figs/doom2.png"> -->
+<a href="https://github.com/levyto"> 
+    <i class="fa fa-github fa-4x" title="GitHub"></i> 
+</a>
+<!-- <i class="fa fa-linux fa-4x"></i> -->
 
+**Ph.D. student**: KME&thinsp;/&thinsp;FAV&thinsp;/&thinsp;ZČU
 
+**Místnost**: &nbsp;&emsp;&emsp;UC 425 (Technická 8, Plzeň)
 
-Ph.D. student, KME / FAV / ZČU
-
-**Místnost:** &nbsp;UC 425 (Technická 8, Plzeň)
-
-**E-mail:**  &emsp; [levyto@kme.zcu.cz](mailto:levyto@kme.zcu.cz)
+**E-mail**:  &emsp;&emsp;&emsp; [levyto@kme.zcu.cz](mailto:levyto@kme.zcu.cz)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus ante sit amet enim tincidunt finibus et sed nisi. Morbi ullamcorper ligula ac ullamcorper aliquam. Sed mi orci, tincidunt vitae augue quis, feugiat convallis nulla. Nam luctus nisl purus, in bibendum massa iaculis et. Suspendisse ut velit semper, commodo nunc malesuada, dignissim augue. Nunc at laoreet eros, sagittis gravida massa. Nulla gravida lacus odio, at congue felis sagittis sit amet. In porttitor lacinia dolor et lobortis. Aliquam eu sodales risus. Praesent iaculis eros id felis bibendum, sit amet posuere est dictum.
 
@@ -41,10 +43,12 @@ $$ f'(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{h} $$
 `inline code`
 
 ```cpp
-#include iostream
+#include <iostream>
+
+using namespace std
 
 int main() {
-    std::cout << "Hello world!" << cout::endl;
+    cout << "Hello world!" << endl;
     return 0;
 }
 ```
