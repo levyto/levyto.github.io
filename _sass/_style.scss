@@ -11,9 +11,9 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Ubuntu Mono" /*"Inconsolata"*/ ;
-    font-size: 17px;
-    line-height: 1.2;
+    font-family: "Ubuntu" /*"Inconsolata"*/ ;
+    font-size: 1.1rem;
+    line-height: 1.5;
     height: 100%;
     background-color: AntiqueWhite; /*LightYellow*/
     color: Black /*DarkRed*/ /*Maroon*/;
@@ -41,11 +41,13 @@ hr {
     color: DarkRed;
     display: inline-block;
     padding: 8px 0 0px 0;
+    line-height: 1;
 }
 .navbar {
     font-size: 22px;
     /*font-family: "Press Start 2P";*/
     padding: 20px 0 0 0;
+    line-height: 1;
 }
 .navbar-ul {
     display: inline-block;
