@@ -8,7 +8,7 @@ layout: default
 </a>
 <!-- <i class="fa fa-linux fa-4x"></i> -->
 
-**Ph.D. student**: KME / KME / ZČU
+**Ph.D. student**: KME / FAV / ZČU
 
 **Místnost**: UC 425 (Technická 8, Plzeň)
 
