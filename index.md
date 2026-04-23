@@ -5,13 +5,20 @@ layout: default
 <!-- <img class="profile-picture" src="figs/doom2.png"> -->
 <!-- <i class="fa fa-linux fa-4x"></i> -->
 
-KME / FAV / ZČU
+<img src="{{ '/figs/vonkarman.png' | relative_url }}" style="width: 300px; float: right; margin: 0 0 1rem 1rem;">
 
-**Místnost**: UC 425 (Technická 8, Plzeň)
+Department of Mechanics 
+<br>
+Faculty of Applied Sciences 
+<br>
+University of West Bohemia
+
+**Room**: UC 425 (Technická 8, Plzeň, Czech Republic)
 
 **E-mail**: [levyto@fav.zcu.cz](mailto:levyto@fav.zcu.cz)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed malesuada augue. Phasellus condimentum, tellus vel eleifend sollicitudin, arcu purus molestie leo, sed ultrices nunc leo vel dui. Praesent nec finibus risus, in facilisis felis. Duis posuere mollis nulla, vitae condimentum tellus pellentesque sit amet. Nullam vel mattis augue. Etiam vitae sapien vitae tellus dapibus tincidunt sed feugiat neque. Duis auctor mi gravida purus tincidunt aliquet. Nam vitae justo at eros facilisis venenatis. Aenean purus nulla, finibus sit amet nisi at, tincidunt rutrum ligula. Vivamus et velit luctus, dictum elit sed, efficitur erat.
+
 
 ---
 

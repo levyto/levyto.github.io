@@ -4,7 +4,9 @@ layout: default
 
 ## Examples
 
-$$ f'(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{h} $$
+$$ 
+    f'(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{h} 
+$$
 
 1. Foo
 2. Bar

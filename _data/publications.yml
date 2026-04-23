@@ -15,7 +15,7 @@
   selected: true
 
 - key: "compfluids"
-  title: "Towards a Robust Time-Accurate Anisotropically Adaptive Hybridized Discontinuous Galerkin Method"
+  title: "Towards a robust time-accurate anisotropically adaptive hybridized discontinuous Galerkin method"
   authors:
     - "Tomáš Levý"
     - "Georg May"
@@ -61,7 +61,7 @@
   number: "6"
   pages: "1011-1030"
   doi: "10.1002/fld.5278"
-  pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/fld.5278"
+  pdf: "https://naos-be.zcu.cz/server/api/core/bitstreams/e027307f-900f-4263-85b2-758f80cc8950/content"
   note: ""
   selected: true
 
