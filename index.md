@@ -3,9 +3,6 @@ layout: default
 ---
 
 <!-- <img class="profile-picture" src="figs/doom2.png"> -->
-<a href="https://github.com/levyto" style="color: black;"> 
-    <i class="fa fa-github fa-3x" title="GitHub" style="float: right;position: relative;margin: 10px 0 0 15px;"></i> 
-</a>
 <!-- <i class="fa fa-linux fa-4x"></i> -->
 
 KME / FAV / ZČU
@@ -14,54 +11,33 @@ KME / FAV / ZČU
 
 **E-mail**: [levyto@fav.zcu.cz](mailto:levyto@fav.zcu.cz)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tempus ante sit amet enim tincidunt finibus et sed nisi. Morbi ullamcorper ligula ac ullamcorper aliquam. Sed mi orci, tincidunt vitae augue quis, feugiat convallis nulla. Nam luctus nisl purus, in bibendum massa iaculis et. Suspendisse ut velit semper, commodo nunc malesuada, dignissim augue. Nunc at laoreet eros, sagittis gravida massa. Nulla gravida lacus odio, at congue felis sagittis sit amet. In porttitor lacinia dolor et lobortis. Aliquam eu sodales risus. Praesent iaculis eros id felis bibendum, sit amet posuere est dictum.
-
-
-Vestibulum congue faucibus ipsum, in imperdiet lectus suscipit et. Ut efficitur turpis in est lobortis congue. Nullam nisi lectus, tempus ac arcu in, efficitur ultricies urna. Proin in ;risus enim. Vestibulum mattis erat nulla, efficitur auctor odio tincidunt in. Nullam bibendum augue vel euismod sollicitudin. Nulla pretium non nisi eget consequat. Nam pharetra est vitae lorem posuere, id varius arcu ornare. Sed at felis turpis. Maecenas id justo pretium sem porta faucibus. Donec quis molestie sapien. Fusce sit amet erat velit.
-
-<!-- Jenom tak klidně levitují ve vzduchu. Jelikož slunce jasně září a na obloze byste od východu k západu hledali mráček marně, balónky působí jako jakási fata morgána uprostřed pouště. Zkrátka široko daleko nikde nic, jen zelenkavá tráva, jasně modrá obloha a tři křiklavě barevné pouťové balónky, které se téměř nepozorovatelně pohupují ani ne moc vysoko, ani moc nízko nad zemí. Kdyby pod balónky nebyla sytě zelenkavá tráva, ale třeba suchá silnice či beton, možná by bylo vidět jejich barevné stíny - to jak přes poloprůsvitné barevné balónky prochází ostré sluneční paprsky. Jenže kvůli všudy přítomné trávě jsou stíny balónků sotva vidět, natož aby šlo rozeznat, jakou barvu tyto stíny mají. Uvidět tak balónky náhodný kolemjdoucí, jistě by si pomyslel, že už tu takhle poletují snad tisíc let. Stále si víceméně drží výšku a ani do stran se příliš nepohybují. Proti slunci to vypadá, že se slunce pohybuje k západu rychleji než balónky, a možná to tak skutečně je. Nejeden filozof by mohl tvrdit, že balónky se sluncem závodí, ale fyzikové by to jistě vyvrátili. Z fyzikálního pohledu totiž balónky působí zcela nezajímavě. Nejvíc bezpochyby zaujmou děti - jedna malá holčička zrovna včera div nebrečela, že by snad balónky mohly prasknout. A co teprve ta stuha.
-
-Stuha, kterou je každý z trojice balónků uvázán, aby se nevypustil. Očividně je uvázaná dostatečně pevně, protože balónky skutečně neucházejí. To ale není nic zvláštního. Překvapit by však mohl fakt, že nikdo, snad krom toho, kdo balónky k obloze vypustil, netuší, jakou má ona stuha barvu. Je totiž tak lesklá, že za světla se v ní odráží nebe a za tmy zase není vidět vůbec. Když svítí slunce tak silně jako nyní, tak se stuha třpytí jako kapka rosy a jen málokdo vydrží dívat se na ni přímo déle než pár chvil. Jak vlastně vypadají ony balónky?.
-
-Ptají se často lidé. Inu jak by vypadaly - jako běžné pouťové balónky střední velikosti, tak akorát nafouknuté. Červený se vedle modrého a zeleného zdá trochu menší, ale to je nejspíš jen optický klam, a i kdyby byl skutečně o něco málo menší, tak vážně jen o trošičku. Vítr skoro nefouká a tak by se na první pohled mohlo zdát, že se balónky snad vůbec nepohybují. Jenom tak klidně levitují ve vzduchu. Jelikož slunce jasně září a na obloze byste od východu k západu hledali mráček marně, balónky působí jako jakási fata morgána uprostřed pouště. Zkrátka široko daleko nikde nic, jen zelenkavá tráva, jasně modrá obloha a tři křiklavě barevné pouťové balónky, které se téměř nepozorovatelně pohupují ani ne moc vysoko, ani moc nízko nad zemí. Kdyby pod balónky nebyla sytě zelenkavá tráva, ale třeba suchá silnice či beton, možná by bylo vidět jejich barevné stíny - to jak přes poloprůsvitné barevné balónky prochází ostré sluneční paprsky. Jenže kvůli všudy přítomné trávě jsou stíny balónků sotva vidět, natož aby šlo rozeznat, jakou barvu tyto stíny mají. Uvidět tak balónky náhodný kolemjdoucí, jistě by si pomyslel, že už tu takhle poletují snad tisíc let. Stále si víceméně drží výšku a ani do stran se příliš nepohybují. Proti slunci to vypadá, že se slunce pohybuje k západu rychleji než balónky, a možná to tak skutečně je. Nejeden filozof by mohl tvrdit, že balónky se sluncem závodí, ale fyzikové by to jistě vyvrátili. Z fyzikálního pohledu totiž balónky působí zcela nezajímavě. Nejvíc bezpochyby zaujmou děti - jedna malá holčička zrovna včera div nebrečela, že by snad balónky mohly prasknout.
-
-A co teprve ta stuha. Stuha, kterou je každý z trojice balónků uvázán, aby se nevypustil. Očividně je uvázaná dostatečně pevně, protože balónky skutečně neucházejí. To ale není nic zvláštního. Překvapit by však mohl fakt, že nikdo, snad krom toho, kdo balónky k obloze vypustil, netuší, jakou má ona stuha barvu. -->
-
-## Examples
-
-$$ f'(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{h} $$
-
-1. Foo
-2. Bar
-
-* Foo
-* Bar
-
-[link](http://google.com)
-
-*italics* 
-**bold**
-`inline code`
-
-```cpp
-#include <iostream>
-
-using namespace std;
-
-int main() {
-    cout << "Hello world!" << endl;
-    return 0;
-}
-```
-
-bla | bla 	|
-----|-------|
-1 	| i  	| 
-2 	| ii 	|
-3 	| iii	| 
-4 	| iv    |
 
 ---
 
-> Note
+<div class="icon-row">
+    <a href="https://www.zcu.cz/en/Employees/person.html?personId=111070" title="UWB">
+        <img src="/figs/kme.svg" alt="UWB" class="svg-icon">
+    </a>
+    <a href="https://github.com/levyto"> 
+        <i class="fa fa-github-square fa-2x" title="GitHub"></i> 
+    </a>
+    <a href="https://orcid.org/0000-0003-3414-868X">
+        <i class="ai ai-orcid-square ai-2x" title="ORCID"></i>
+    </a>
+    <a href="https://www.webofscience.com/wos/author/record/55714499">
+        <i class="ai ai-clarivate-square ai-2x" title="Web of Science"></i>
+    </a>
+    <a href="https://www.scopus.com/authid/detail.uri?authorId=58080023600">
+        <i class="ai ai-scopus-square ai-2x" title="Scopus"></i>
+    </a>
+    <a href="https://scholar.google.com/citations?user=HlhR34MAAAAJ&hl=cs&oi=ao">
+        <i class="ai ai-google-scholar-square ai-2x" title="Google Scholar"></i>
+    </a>
+    <a href="https://www.researchgate.net/profile/Tomas-Levy?ev=hdr_xprf">
+        <i class="ai ai-researchgate-square ai-2x" title="ResearchGate"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/tomáš-levý-143bb7129/">
+        <i class="fa fa-linkedin-square fa-2x" title="LinkedIn"></i>
+    </a>
+</div>
 

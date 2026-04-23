@@ -2,6 +2,45 @@
 layout: default
 ---
 
+## Examples
+
+$$ f'(x) = \lim_{h\rightarrow 0} \frac{f(x+h) - f(x)}{h} $$
+
+1. Foo
+2. Bar
+
+* Foo
+* Bar
+
+[link](http://google.com)
+
+*italics* 
+**bold**
+`inline code`
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout << "Hello world!" << endl;
+    return 0;
+}
+```
+
+bla | bla 	|
+----|-------|
+1 	| i  	| 
+2 	| ii 	|
+3 	| iii	| 
+4 	| iv    |
+
+---
+
+> Note
+
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed malesuada augue. Phasellus condimentum, tellus vel eleifend sollicitudin, arcu purus molestie leo, sed ultrices nunc leo vel dui. Praesent nec finibus risus, in facilisis felis. Duis posuere mollis nulla, vitae condimentum tellus pellentesque sit amet. Nullam vel mattis augue. Etiam vitae sapien vitae tellus dapibus tincidunt sed feugiat neque. Duis auctor mi gravida purus tincidunt aliquet. Nam vitae justo at eros facilisis venenatis. Aenean purus nulla, finibus sit amet nisi at, tincidunt rutrum ligula. Vivamus et velit luctus, dictum elit sed, efficitur erat.
 
 Cras bibendum, tortor vestibulum dignissim dapibus, mauris leo faucibus arcu, feugiat pulvinar ex metus id purus. Praesent ante justo, consectetur vel tincidunt eu, pretium eget urna. Integer vel ligula laoreet, faucibus nisl vitae, egestas leo. In hac habitasse platea dictumst. Pellentesque vulputate, justo ac consectetur pulvinar, felis lorem dignissim orci, eget ullamcorper mauris lectus quis nunc. Quisque posuere scelerisque tortor, in ultricies nulla pharetra eu. Cras lacinia nunc commodo quam vulputate, quis iaculis urna eleifend. Pellentesque in turpis elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
