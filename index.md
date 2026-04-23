@@ -16,7 +16,7 @@ KME / FAV / ZČU
 
 <div class="icon-row">
     <a href="https://www.zcu.cz/en/Employees/person.html?personId=111070" title="UWB">
-        <img src="/figs/kme.svg" alt="UWB" class="svg-icon">
+        <img src="{{ '/figs/uwb.svg' | relative_url }}" alt="UWB" class="svg-icon">
     </a>
     <a href="https://github.com/levyto"> 
         <i class="fa fa-github-square fa-2x" title="GitHub"></i> 

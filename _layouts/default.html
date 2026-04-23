@@ -30,9 +30,9 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-    <link rel="shortcut icon" href="/figs/favicon.ico">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="{{ '/feed.xml' | relative_url }}" />
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
+    <link rel="shortcut icon" href="{{ '/figs/favicon.ico' | relative_url }}" type="image/x-icon">
     {% if site.twitter_username %}
         <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
     {% endif %}
@@ -64,7 +64,7 @@
     <div class="wrapper">
         <div class="navbar container">
             <!-- Title figure -->
-            <img src="figs/doom2.png" style="float:left;margin-top:-12px;margin-left:-6px;margin-right:12px;width:60px;height:60px;">
+            <img src="{{ '/figs/doom2.png' | relative_url }}" style="float:left;margin-top:-12px;margin-left:-6px;margin-right:12px;width:60px;height:60px;">
             <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}

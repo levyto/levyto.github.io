@@ -1,5 +1,6 @@
 title: Tomáš Levý
 url: "https://levyto.github.io/"
+baseurl: ""
 
 markdown: kramdown
 highlighter: rouge
@@ -25,5 +26,9 @@ nav:
  - name: "Bar"
    link: "/pdfs/dummy.pdf"
  - name: "Baz"
-   link: "baz"
+   link: "/pages/baz"
+ - name: "Předměty"
+   link: "/pages/predmety"
+ - name: "Publikace"
+   link: "/pages/papers.bib"
  
