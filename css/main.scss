@@ -1,4 +1,7 @@
 ---
 ---
-@use "style" as *;
-@use "monokai" as *;
+@import "style";
+@import "monokai";
+/* @use "style" as *;
+ * @use "monokai" as *;
+ */

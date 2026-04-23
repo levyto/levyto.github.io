@@ -1,6 +1,11 @@
-@use "vars" as *;
-@use "typography" as *;
-@use "tables" as *;
+
+@import "vars";
+@import "typography";
+@import "tables";
+/* @use "vars" as *;
+ * @use "typography" as *;
+ * @use "tables" as *;
+ */
 
 /*
  * Basic
