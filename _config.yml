@@ -22,11 +22,7 @@ sass:
 
 nav:
  - name: "Foo"
-   link: "/"
- - name: "Bar"
-   link: "/pdfs/dummy.pdf"
- - name: "Baz"
-   link: "/pages/baz"
+   link: "/pages/foo"
  - name: "Předměty"
    link: "/pages/courses"
  - name: "Publikace"
