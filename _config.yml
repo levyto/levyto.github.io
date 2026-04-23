@@ -21,10 +21,10 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Foo"
-   link: "/pages/foo"
- - name: "Předměty"
-   link: "/pages/courses"
- - name: "Publikace"
+ - name: "Publications"
    link: "/pages/publications"
+ - name: "Research"
+   link: "/pages/research"
+ - name: "Teaching"
+   link: "/pages/teaching"
  

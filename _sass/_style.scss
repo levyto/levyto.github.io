@@ -106,7 +106,6 @@ hr {
   opacity: 0.8;
 }
 
-
 .publication-list {
   list-style: none;
   padding: 0 20px 0 20px;
@@ -118,4 +117,8 @@ hr {
 }
 .publication-item:not(:last-child) {
   margin-bottom: 1.1rem;
+}
+
+.framed-image {
+  border: 1px solid black;
 }
