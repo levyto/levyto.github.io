@@ -8,8 +8,7 @@ title: Publications
 {% assign pubs_by_year = site.data.publications | sort: "year" | reverse | group_by: "year" %}
 
 {% for year_group in pubs_by_year %}
-  <h3 class="pub-year" style="margin-bottom:-5px">{{ year_group.name }}</h3>
-  <hr class="pub-year-rule">
+  <h3 class="pub-year" style="margin-bottom:15px">{{ year_group.name }}</h3>
 
   <ul class="publication-list">
     {% for pub in year_group.items %}
