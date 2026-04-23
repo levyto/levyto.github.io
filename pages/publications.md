@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Publikace
+title: Publications
 ---
 
-### Publikace
+## Publications
 
 {% assign pubs_by_year = site.data.publications | sort: "year" | reverse | group_by: "year" %}
 
@@ -78,7 +78,7 @@ title: Publikace
           <a href="{{ pub.pdf | relative_url }}">PDF</a>
         {% endif %}
       </li>
-      
+
     {% endfor %}
   </ul>
 {% endfor %}
