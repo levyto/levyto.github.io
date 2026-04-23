@@ -13,11 +13,7 @@ In this case, the initial discontinuity is located at $x = 0.5$ and the solution
   <p class="figure-caption">
     <img src="{{ '/figs/sod/sod1.png' | relative_url }}" class="framed-image" style="width: 450px;">
     <br>
-    Initial condition for the Sod's shock tube problem on initial uniform
-    <br>
-     coarse mesh with 1,200 elements. The upper panel shows discontinuity
-    <br>
-    detection and the corresponding region where projection limiting is applied.
+    Initial condition for the Sod's shock tube problem on initial uniform coarse mesh with 1,200 elements. The upper panel shows discontinuity detection and the corresponding region where projection limiting is applied.
   </p>
 </div>
 
@@ -27,9 +23,7 @@ The initial projection then serves as input to the initial anisotropic mesh adap
   <p class="figure-caption">
     <img src="{{ '/figs/sod/sod2.png' | relative_url }}" class="framed-image" style="width: 450px;">
     <br>
-    Initial condition for the Sod's shock tube problem on initially
-    <br>
-    adapted anisotropic mesh with 1,000 elements. 
+    Initial condition for the Sod's shock tube problem on initially adapted anisotropic mesh with 1,000 elements. 
   </p>
 </div>
 

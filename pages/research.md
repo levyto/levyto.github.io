@@ -7,7 +7,7 @@ title: Research
 
 My research is concerned with the development of advanced numerical methods for time-dependent compressible flow problems. In particular, I work on adaptive discontinuous Galerkin methods, anisotropic mesh adaptation, and conservative solution transfer between non-matching meshes. The aim is to improve the robustness and efficiency of simulations involving complex transient flow phenomena. Selected numerical examples shown below illustrate the main ideas and capabilities of the developed approach so far.
 
-<img src="{{ '/figs/meshes.png' | relative_url }}" style="display: block; margin: 0 auto 1rem auto;">
+<img src="{{ '/figs/meshes.jpg' | relative_url }}" style="display: block; margin: 0 auto 1rem auto;">
 
 ### Research Topics
 
