@@ -19,7 +19,7 @@ html {
 body {
     margin: 0;
     font-family: "Ubuntu" /*"Inconsolata"*/ ;
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     line-height: 1.5;
     height: 100%;
     background-color: AntiqueWhite; /*LightYellow*/
@@ -84,6 +84,8 @@ hr {
     max-width: $max-width;
     margin: auto;
     text-align: justify;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 .wrapper {
     min-height: 100%;
@@ -105,7 +107,21 @@ hr {
 }
 
 .svg-icon {
-  width: 2em;
+  width: 1.7em;
   height: 1.7em;
   vertical-align: middle;
+}
+
+
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+.publication-item {
+  margin-bottom: 1.5rem;
+  line-height: 1.5;
+}
+.publication-item:not(:last-child) {
+  margin-bottom: 1.1rem;
 }

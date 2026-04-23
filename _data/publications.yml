@@ -1,0 +1,84 @@
+- key: "compfluids"
+  title: "Towards a Robust Time-Accurate Anisotropically Adaptive Hybridized Discontinuous Galerkin Method"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "journal"
+  venue: "Computers & Fluids"
+  year: 2025
+  month: 10
+  volume: "301"
+  number: ""
+  pages: "106792"
+  doi: "10.1016/j.compfluid.2025.106792"
+  pdf: "https://pdf.sciencedirectassets.com/271457/1-s2.0-S0045793025X0013X/1-s2.0-S004579302500252X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFifEQbPEJWzEVatvcmy9sgx%2FDOo0ykerV%2Fwl%2FlllYVxAiBjba7aBE5DnBt5qgmNnYstsnfOmYf3Lv03ev6PLOMBqyqzBQhjEAUaDDA1OTAwMzU0Njg2NSIMqmJ12a0arAllaGeZKpAF5g6erD4kfeSA8HBIqAzj4uI970%2F9Km%2Fg1pwDzWA9q%2BqH%2ByXLFkE0%2F%2FAs6nl%2BbapuReN%2FJUhv5kexi%2F1H%2FBQODZehtR3his%2FUiu%2FUrjXb1QVDW6d7AD7YUmXlx5JuOFYJ18lqqFlRRsuQUNXs0831Kdak0JmUsxhE4wKf3eN1RaYhyeJWoJL8Q0utyZFK0tA79wKoNQzl7h5gaNYiJjYe2M81wns020QYUKOeBIHVX0JCMmPUA87oYCJGFsKW%2Fc%2FHmjZUci%2F%2FApb8RUD9YznTFhSaf5gXkEApM8vfbfOKJJbo4YMIh6Jm%2BPVgK3wrgtGXlo4VXCoWYX2M1kyCOi8sgu70Gk6Capzs%2B1ZXOqnPD3RQfIrIlo6XYD1Lb5FNZguIsMsnwUgf7XqmeD1vAk%2FNl4ETxv8Y3nS4gtSGST8ycF2qXG0wvOcHeaP35IZgbbCRTtRE3rtgLeYnm11KA1kzv7Iai27xHbmReE4jsDs31uNMskC36Uy81lgxVxEjNHMbgvN%2F%2BD%2BIhZGyqdNHd8yKwq43t1DDNhMi%2FBWfjStO%2BBUpYWLHaNFo%2BTqLg8QToVku5zupcIkgZAy9FCEMU9jinZP%2BiFM2r806miJSqiAfuNZnOxZ8DX2iGyI4yMCKrpGPq5vet8OeARa7nmEEC5t%2FMnUbnUUDkxwLYUHBxVOENKPsr723MI5LNA%2BJLu9OJ7Nt5s7lGIucYjEit%2FJ02CX8hV3cnTf9go8G5XvzfLx6t4iHWWN8T4oUuQ3mAROQLKIwnzJpfLcJxVhxp7SaT1z9p9LWwhelMtmhe0mWEvhTmCVdWMw70MhY4Jq%2BDR7qIZH%2B9Bh%2FORuSdH6xRnshGWjivYpTCh8VKB%2FDrKqkv4mYsSIw5uOnzwY6sgEEI3SkecA5IKKn65wNWcT2tbdkvd3mVs%2BUFDBCSfuihNzW%2BxUjqeCa9FSdrfd7o25PRHMUItuQ%2FeWJ6IpvdMoHylVS8xPTv7hyyK0kPyWpa37TI8%2BK39Sy8%2F%2BObEUUUL%2FsJvZQ3dPdR89KpJgz%2BdFuedAKxPJfm8dXRD%2Fmsz0fSPDOgoDyF%2FUZkYld93QosFWO3dBNm2WahA9UDbd5IUFeyyfflr%2B%2B3lktixX0bJhCVe5g&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260423T110949Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYUYTEGH6P%2F20260423%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=67fdd49201a7aea66b7ace77a95487bd2c3c8a96f114ac12fc77ef0a3b12a3c2&hash=4c2cbc367a9dc27a1b8b2d30f9c6bff55dcf369d3a23ac6c60e8e6423b538996&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S004579302500252X&tid=spdf-13b2bf84-b617-4a53-959d-e0e3aa604f84&sid=d789f5728a1169418c1a2de90f0291a71bf2gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=05185b08560659025207&rr=9f0c6b0dffdef97c&cc=cz"
+  note: ""
+  selected: true
+
+- key: "iccfd12"
+  title: "Towards Robust Time-Accurate Anisotropically Adaptive Hybridized Discontinuous Galerkin Method"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "conference"
+  venue: "ICCFD12 - The 12th International Conference on Computational Fluid Dynamics"
+  year: 2024
+  month: 7
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  pdf: "https://www.iccfd.org/iccfd12/assets/pdf/papers/ICCFD12_Paper_8-C-01.pdf"
+  note: "Kobe, Japan"
+  selected: false
+
+- key: "ijnmf"
+  title: "Conservative solution transfer between anisotropic meshes for time-accurate hybridized discontinuous Galerkin methods"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "journal"
+  venue: "International Journal for Numerical Methods in Fluids"
+  year: 2024
+  month: 2
+  volume: "96"
+  number: "6"
+  pages: "1011-1030"
+  doi: "10.1002/fld.5278"
+  pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/fld.5278"
+  note: ""
+  selected: true
+
+- key: "scitech"
+  title: "Conservative Solution Transfer Between Anisotropic Meshes for Adaptive Time-Accurate Hybridized Discontinuous Galerkin Methods"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "conference"
+  venue: "AIAA SCITECH 2023 Forum"
+  year: 2023
+  month: 1
+  volume: ""
+  number: ""
+  pages: "AIAA 2023-1794"
+  doi: "10.2514/6.2023-1794"
+  pdf: "/pdfs/2023_Levy-May_AIAA_SciTech.pdf"
+  note: "National Harbor, Maryland, USA"
+  selected: false
+
+- key: "acm"
+  title: "Comparison of implicit time-discretization schemes for hybridized discontinuous Galerkin methods"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "journal"
+  venue: "Applied and Computational Mechanics"
+  year: 2022
+  month: 12
+  volume: "16"
+  number: "2"
+  pages: "119-134"
+  doi: "10.24132/acm.2022.786"
+  pdf: "/pdfs/2022_Levy-May_ACM.pdf"
+  note: ""
+  selected: false

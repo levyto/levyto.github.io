@@ -28,7 +28,7 @@ nav:
  - name: "Baz"
    link: "/pages/baz"
  - name: "Předměty"
-   link: "/pages/predmety"
+   link: "/pages/courses"
  - name: "Publikace"
-   link: "/pages/papers.bib"
+   link: "/pages/publications"
  
