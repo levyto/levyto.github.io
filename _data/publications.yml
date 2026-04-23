@@ -1,3 +1,19 @@
+- key: "phd-thesis"
+  title: "Adaptive Hybridized Discontinuous Galerkin Method for Time-Dependent Compressible Fluid Flow Problems"
+  authors:
+    - "Tomáš Levý"
+  type: "thesis"
+  venue: "Department of Mechanics, Faculty of Applied Sciences, University of West Bohemia"
+  year: 2025
+  month: 8
+  address: "Pilsen, Czech Republic"
+  school: "University of West Bohemia"
+  url: ""
+  pdf: "/pdfs/2025_Levy_PhDThesis.pdf"
+  doi: ""
+  note: "PhD thesis"
+  selected: true
+
 - key: "compfluids"
   title: "Towards a Robust Time-Accurate Anisotropically Adaptive Hybridized Discontinuous Galerkin Method"
   authors:

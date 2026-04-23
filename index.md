@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed malesuada a
 
 <div class="icon-row">
     <a href="https://www.zcu.cz/en/Employees/person.html?personId=111070" title="University of West Bohemia">
-        <img src="{{ '/figs/uwb.svg' | relative_url }}" alt="UWB">
+        <img src="{{ '/figs/uwb.svg' | relative_url }}" alt="UWB" style="width: 24px; margin-bottom: -5px">
     </a>
     <a href="https://github.com/levyto"> 
         <i class="fa fa-github-square fa-2x" title="GitHub"></i> 
