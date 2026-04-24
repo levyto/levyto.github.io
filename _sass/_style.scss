@@ -173,7 +173,7 @@ blockquote p:last-child {
 
 
 /* Phone view queries */
-@media (max-width: 700px) {
+@media (max-width: 650px) {
   .header {
     display: block;
   }
@@ -243,12 +243,17 @@ blockquote p:last-child {
     display: block;
     color: DarkRed;
   }
+}
+
+
+@media (max-width: 800px) {
   .home-image img {
     float: none;
     display: block;
-    margin-top: -15px;
-    margin-bottom: -15px;
+    width: 410px;
+    max-width: 100%;
+    height: auto;
+    margin: -15px auto -15px auto;
   }
 }
-
 
