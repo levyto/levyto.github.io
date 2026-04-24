@@ -1,6 +1,6 @@
 ---
 layout: default
-title: KKE/D - Cvičení 12
+title: KME/D - Cvičení 12
 ---
 
 #### KME/D - Cvičení 12 
