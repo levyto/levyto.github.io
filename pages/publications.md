@@ -21,37 +21,13 @@ title: Publications
         <br>
 
         {% if pub.type == "journal" %}
-          <em>{{ pub.venue }}</em>
-          {% if pub.volume and pub.volume != "" %}
-            , {{ pub.volume }}
-          {% endif %}
-          {% if pub.number and pub.number != "" %}
-            ({{ pub.number }})
-          {% endif %}
-          {% if pub.pages and pub.pages != "" %}
-            , {{ pub.pages }}
-          {% endif %}
-          {% if pub.year %}
-            , {{ pub.year }}
-          {% endif %}
+          <em>{{ pub.venue }}</em>{% if pub.volume and pub.volume != "" %}, {{ pub.volume }}{% endif %}{% if pub.number and pub.number != "" %}({{ pub.number }}){% endif %}{% if pub.pages and pub.pages != "" %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
         {% elsif pub.type == "conference" %}
-          <em>{{ pub.venue }}</em>
-          {% if pub.pages and pub.pages != "" %}
-            , {{ pub.pages }}
-          {% endif %}
-          {% if pub.year %}
-            , {{ pub.year }}
-          {% endif %}
+          <em>{{ pub.venue }}</em>{% if pub.pages and pub.pages != "" %}, {{ pub.pages }}{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}
         {% elsif pub.type == "thesis" %}
-          <em>{{ pub.venue }}</em>
-          {% if pub.year %}
-            , {{ pub.year }}
-          {% endif %}
+          <em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}
         {% else %}
-          <em>{{ pub.venue }}</em>
-          {% if pub.year %}
-            , {{ pub.year }}
-          {% endif %}
+          <em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}
         {% endif %}
         <br>
 
