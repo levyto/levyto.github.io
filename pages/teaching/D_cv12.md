@@ -102,6 +102,7 @@ $$
 ![Težní klec]({{ 'gifs/pr5.gif' | relative_url }})
 
 **Maximální síla v ocelovém laně** bude vznikat v bodě $A$, kde je lano zatíženo tíhovou silou klece, tíhovou silou celého lana a silou v pružném laně vyvolanou jeho maximálním prodloužením, tj.
+
 $$
   F_{\mathrm{max}} = \left( m_1 + m_2 \right) g + k_1 x_{\mathrm{max}}.
 $$
