@@ -148,10 +148,19 @@ blockquote p:last-child {
   text-align: center;
 }
 
-.home-image {
-  display: block;
+.home-image img {
+  width: 410px;
   max-width: 100%;
   height: auto;
-  margin: 0 auto;
-  text-align: center;
+  float: right;
+  margin-top: -15px;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+@media (max-width: 900px) {
+  .home-image img {
+    float: none;
+    display: block;
+    margin: 0 auto 1rem auto;
+  }
 }
