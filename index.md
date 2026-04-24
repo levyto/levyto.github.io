@@ -5,23 +5,42 @@ layout: default
 <!-- <img class="profile-picture" src="figs/doom2.png"> -->
 <!-- <i class="fa fa-linux fa-4x"></i> -->
 
-<img src="{{ '/figs/vonkarman.png' | relative_url }}" style="width: 300px; float: right; margin: 0 0 1rem 1rem;">
+<!-- <img src="{{ '/figs/vonkarman.png' | relative_url }}" style="width: 300px; float: right; margin: 0 0 1rem 1rem;"> -->
 
-Department of Mechanics 
+
+I am a postdoctoral researcher in the field of computational fluid dynamics at the Department of Mechanics, Faculty of Applied Sciences, University of West Bohemia in Pilsen, Czech Republic. My work focuses on adaptive discontinuous Galerkin methods for time-dependent compressible flows, with emphasis on anisotropic mesh adaptation and high-order conservative solution transfer between non-matching meshes. This website provides a brief overview of my research, publications, and teaching activities.
+
+### Research Interests
+
+<img src="{{ '/figs/vonkarman_crop.png' | relative_url }}" style="width: 410px; float: right; margin-top: -15px;">
+
+- Discontinuous Galerkin methods
+- Compressible flow simulation
+- Anisotropic mesh adaptation
+- High-order solution transfer
+- Shock-dominated transient flows
+
+### Contact 
+
+Ing. Tomáš Levý, Ph.D.
+
+[Department of Mechanics](https://www.kme.zcu.cz/en/)
 <br>
-Faculty of Applied Sciences 
+[Faculty of Applied Sciences](https://www.fav.zcu.cz/en/)
 <br>
-University of West Bohemia
+[University of West Bohemia](https://www.zcu.cz/en/)
+<br>
+Technická 8
+<br>
+301 00 Plzeň 3
+<br>
+Czech Republic
 
-**Room**: UC 425 (Technická 8, Plzeň, Czech Republic)
-
+**Room**: UC 425 (FAV/NTIS building, 4th floor)
+<br>
 **E-mail**: [levyto@fav.zcu.cz](mailto:levyto@fav.zcu.cz)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sed malesuada augue. Phasellus condimentum, tellus vel eleifend sollicitudin, arcu purus molestie leo, sed ultrices nunc leo vel dui. Praesent nec finibus risus, in facilisis felis. Duis posuere mollis nulla, vitae condimentum tellus pellentesque sit amet. Nullam vel mattis augue. Etiam vitae sapien vitae tellus dapibus tincidunt sed feugiat neque. Duis auctor mi gravida purus tincidunt aliquet. Nam vitae justo at eros facilisis venenatis. Aenean purus nulla, finibus sit amet nisi at, tincidunt rutrum ligula. Vivamus et velit luctus, dictum elit sed, efficitur erat.
-
-
----
-
+<p style="text-align: center; font-size: 0.85rem; color: DarkRed;">You can also find me on:</p>
 <div class="icon-row">
     <a href="https://www.zcu.cz/en/Employees/person.html?personId=111070" title="University of West Bohemia">
         <img src="{{ '/figs/uwb.svg' | relative_url }}" alt="UWB" style="width: 24px; margin-bottom: -5px">
