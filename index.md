@@ -46,9 +46,9 @@ Technická 8
 <br>
 Czech Republic
 
-**Room**: UC 425 (FAV/NTIS building, 4th floor)
+[<i class="fa fa-briefcase fa-1x"></i> UC 425 (FAV/NTIS building, 4th floor)](https://maps.app.goo.gl/WtZb6NePQ6JaTNGf7)
 <br>
-**E-mail**: [levyto@fav.zcu.cz](mailto:levyto@fav.zcu.cz)
+[<i class="fa fa-envelope fa-1x"></i> levyto@fav.zcu.cz](mailto:levyto@fav.zcu.cz)
 
 <p style="text-align: center; font-size: 0.85rem; color: DarkRed;">You can also find me on:</p>
 <div class="icon-row">
