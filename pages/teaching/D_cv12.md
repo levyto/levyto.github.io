@@ -145,11 +145,11 @@ $$
   \frac{x(t)}{x(t + 2T_D)} &= \frac{ \frac{ v_0 }{ \Omega_D } \mathrm{e}^{-D\Omega t} \sin (\Omega_D t) }
                                    { \frac{ v_0 }{ \Omega_D } \mathrm{e}^{-D\Omega (t + 2T_D)} \sin (\Omega_D (t + 2T_D)) } \\
                            &= \frac{ \mathrm{e}^{-D\Omega t} }
-                                   { \mathrm{e}^{-D\Omega (t + 2T_D)} } 
-                            = \frac{ \mathrm{e}^{-D\Omega t} }
+                                   { \mathrm{e}^{-D\Omega (t + 2T_D)} } \\
+                           &= \frac{ \mathrm{e}^{-D\Omega t} }
                                    { \mathrm{e}^{-D\Omega t } \mathrm{e}^{-D\Omega 2T_D}} \\
-                           &= \mathrm{e}^{2D\Omega T_D}
-                            = \mathrm{e}^{\frac{4 \pi D}{\sqrt{1 - D^2}}} \approx 13.
+                           &= \mathrm{e}^{2D\Omega T_D} \\
+                           &= \mathrm{e}^{\frac{4 \pi D}{\sqrt{1 - D^2}}} \approx 13.
 \end{aligned}                                 
 $$
 
