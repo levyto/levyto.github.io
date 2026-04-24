@@ -151,6 +151,12 @@ blockquote p:last-child {
   margin-bottom: 1.1rem;
 }
 
+.image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
 .framed-image {
   display: block;
   max-width: 100%;
