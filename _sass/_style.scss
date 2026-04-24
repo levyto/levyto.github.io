@@ -94,6 +94,44 @@ blockquote p:last-child {
     float: right;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+}
+.site-title-block {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+}
+@media (max-width: 700px) {
+  .header {
+    display: block;
+  }
+  .site-title {
+    font-size: 1.1rem;
+  }
+  .site-title-block img {
+    width: 48px;
+    height: auto;
+  }
+  .navbar {
+    margin-top: 0.8rem;
+    text-align: left;
+  }
+  .navbar a {
+    font-size: 0.95rem;
+  }
+  .navbar ul {
+    display: block;
+  }
+  .navbar li {
+    display: block;
+    margin-bottom: 0.3rem;
+  }
+}
+
 /* Divs */
 
 .container {
@@ -161,6 +199,7 @@ blockquote p:last-child {
   .home-image img {
     float: none;
     display: block;
-    margin: 0 auto 1rem auto;
+    margin-top: -15px;
+    margin-bottom: -15px;
   }
 }
