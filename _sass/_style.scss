@@ -139,16 +139,45 @@ blockquote p:last-child {
 }
 
 .publication-list {
-  list-style: none;
-  padding: 0 20px 0 20px;
-  margin: 0;
+  list-style: none;  
+  margin-left: 0;
+  padding-left: 0;
 }
 .publication-item {
-  margin-bottom: 1.5rem;
-  line-height: 1.5;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  margin-left: 0;
+  padding-left: 0;
 }
 .publication-item:not(:last-child) {
   margin-bottom: 1.1rem;
+  margin-left: 0;
+  padding-left: 0;
+}
+.publication-item:target {
+  background-color: rgba(139, 0, 0, 0.06);
+  padding: 0.25rem;
+}
+.pub-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: -0.5rem;
+  margin-left: 0;
+  padding-left: 0;
+}
+.pub-number {
+  flex: 0 0 1.1em;
+  width: 1.1em;
+  margin-left: 0;
+  padding-left: 0;
+  text-align: left;
+  color: DarkRed;
+}
+.pub-body {
+  flex: 1 1 auto;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 .image {

@@ -5,6 +5,8 @@ title: Explosion Problem
 
 ### Explosion Problem
 
+**Related publication:** [Levý & May (2025)]({{ '/pages/publications/#compfluids' | relative_url }})
+
 This example considers the classical Explosion problem for the Euler equations, which can be interpreted as a radially symmetric counterpart of 1D Sod’s shock tube problem. A high-density, high-pressure state is initially prescribed inside a circular region, generating an expanding wave pattern with a shock wave, a contact discontinuity, and a rarefaction wave. The test case is particularly useful for assessing the developed methodology in the presence of nonplanar shock structures.
 
 Due to symmetry, the computation is performed only on one quarter of the original domain, namely $\Omega = [0,1]^2$. In the present setting, the example is used to demonstrate the behaviour of the mesh-predictor approach for radially propagating flow features. As the shock and other wave structures expand outward, the adapted mesh must remain consistent with the evolving solution while keeping the mesh within a prescribed complexity limit of 4,000 elements.

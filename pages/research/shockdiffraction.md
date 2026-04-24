@@ -5,6 +5,8 @@ title: Shock Diffraction Problem
 
 ### Shock Diffraction Problem
 
+**Related publication:** [Levý & May (2025)]({{ '/pages/publications/#compfluids' | relative_url }})
+
 This example considers the diffraction of a shock wave over a backward-facing step, a classical benchmark for compressible flow solvers involving complex wave interactions and strongly anisotropic flow structures. In contrast to the previous test cases, the present problem combines geometric complexity with evolving shock patterns, vortical structures, and secondary wave interactions.
 
 In the present setting, the mesh is adapted according to the magnitude of the gas velocity after each adaptation interval, with $\Delta t_A = 0.05$, $\mathrm{CFL} = 0.5$, and final time $T = 3.5$. When the total number of mesh elements is kept fixed throughout the simulation, the initial shock is resolved relatively well, but the resolution necessarily becomes less effective as the flow develops and additional structures appear. This highlights a limitation of using a fixed number of mesh elements for problems whose complexity changes substantially in time.

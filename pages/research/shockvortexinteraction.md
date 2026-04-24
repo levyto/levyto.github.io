@@ -5,6 +5,7 @@ title: Shock-Vortex Interaction
 
 ## Shock-Vortex Interaction
 
+**Related publication:** [Levý & May (2024)]({{ '/pages/publications/#ijnmf' | relative_url }})
 
 This example considers a classical shock-vortex interaction problem for the Euler equations, in which a convected isentropic vortex passes through a stationary shock. The test case is particularly useful for assessing anisotropic mesh adaptation in the presence of strong discontinuities and evolving localized flow structures.
 

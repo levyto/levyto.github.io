@@ -5,6 +5,8 @@ title: Sod's Shock Tube Problem
 
 ### Sod's Shock Tube Problem
 
+**Related publication:** [Levý & May (2025)]({{ '/pages/publications/#compfluids' | relative_url }})
+
 This example considers the classical Sod shock tube problem for the Euler equations, extended here to a two-dimensional setting. The solution develops the characteristic three-wave structure of a Riemann problem, namely a rarefaction wave, a contact discontinuity, and a moving shock wave. As such, the problem provides a convenient test case for studying adaptive simulations in the presence of moving discontinuities.
 
 In this case, the initial discontinuity is located at $x = 0.5$ and the solution evolves in the domain $[0,1] \times [-0.05,0.05]$ up to the final time $T = 0.25$. Initially, the discontinuous initial condition is projected onto a uniform coarse mesh used as the starting mesh for the solver.

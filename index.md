@@ -32,8 +32,6 @@ Selected examples illustrating adaptive treatment of shock-dominated transient f
 
 ### Contact 
 
-Ing. Tomáš Levý, Ph.D.
-
 [Department of Mechanics](https://www.kme.zcu.cz/en/)
 <br>
 [Faculty of Applied Sciences](https://www.fav.zcu.cz/en/)
