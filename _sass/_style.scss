@@ -263,27 +263,28 @@ blockquote p:last-child {
 
 
 
-.header-bar {
-  width: 100%;
-  margin: 0;
-  padding-top: 0px;
-  background: DarkRed !important;
-}
-@media (max-width: 650px) {
-  .header-bar {
-    padding-top: -1px;
-  }
-}
+/* DarkRed header */
+// .header-bar {
+//   width: 100%;
+//   margin: 0;
+//   padding-top: 0px;
+//   background: DarkRed !important;
+// }
+// @media (max-width: 650px) {
+//   .header-bar {
+//     padding-top: -1px;
+//   }
+// }
 
-.navbar.container a,
-.navbar.container a:visited,
-#author-name,
-#navlist li a {
-  color: AntiqueWhite !important;
-}
+// .navbar.container a,
+// .navbar.container a:visited,
+// #author-name,
+// #navlist li a {
+//   color: AntiqueWhite !important;
+// }
 
-.navbar.container a:hover,
-#nav-list li a:hover {
-  text-decoration: underline AntiqueWhite;
-}
+// .navbar.container a:hover,
+// #nav-list li a:hover {
+//   text-decoration: underline AntiqueWhite;
+// }
 
