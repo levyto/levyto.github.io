@@ -8,7 +8,7 @@ layout: default
 <!-- <img src="{{ '/figs/vonkarman.png' | relative_url }}" style="width: 300px; float: right; margin: 0 0 1rem 1rem;"> -->
 
 
-I am a postdoctoral researcher in the field of computational fluid dynamics at the Department of Mechanics, Faculty of Applied Sciences, University of West Bohemia in Pilsen. My work focuses on adaptive discontinuous Galerkin methods for time-dependent compressible flows, with emphasis on anisotropic mesh adaptation and high-order conservative solution transfer between non-matching meshes. This website provides a brief overview of my research, publications, and teaching activities. Welcome!
+I am a postdoctoral researcher in computational fluid dynamics at the Department of Mechanics, Faculty of Applied Sciences, University of West Bohemia in Pilsen. My work focuses on adaptive discontinuous Galerkin methods for time-dependent compressible flows, with emphasis on anisotropic mesh adaptation and high-order conservative solution transfer between non-matching meshes. This website provides a brief overview of my research, publications, and teaching activities. Welcome, and feel free to explore.
 
 ### Research Interests
 
