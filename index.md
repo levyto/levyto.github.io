@@ -8,17 +8,27 @@ layout: default
 <!-- <img src="{{ '/figs/vonkarman.png' | relative_url }}" style="width: 300px; float: right; margin: 0 0 1rem 1rem;"> -->
 
 
-I am a postdoctoral researcher in the field of computational fluid dynamics at the Department of Mechanics, Faculty of Applied Sciences, University of West Bohemia in Pilsen, Czech Republic. My work focuses on adaptive discontinuous Galerkin methods for time-dependent compressible flows, with emphasis on anisotropic mesh adaptation and high-order conservative solution transfer between non-matching meshes. This website provides a brief overview of my research, publications, and teaching activities.
+I am a postdoctoral researcher in the field of computational fluid dynamics at the Department of Mechanics, Faculty of Applied Sciences, University of West Bohemia in Pilsen. My work focuses on adaptive discontinuous Galerkin methods for time-dependent compressible flows, with emphasis on anisotropic mesh adaptation and high-order conservative solution transfer between non-matching meshes. This website provides a brief overview of my research, publications, and teaching activities. Welcome!
 
 ### Research Interests
 
-<img src="{{ '/figs/vonkarman_crop.png' | relative_url }}" style="width: 410px; float: right; margin-top: -15px;">
+<div class="home-image ">
+    <img src="{{ '/figs/vonkarman_crop.png' | relative_url }}" style="width: 410px; float: right; margin-top: -15px;">
+</div>
 
 - Discontinuous Galerkin methods
 - Compressible flow simulation
 - Anisotropic mesh adaptation
 - High-order solution transfer
 - Shock-dominated transient flows
+
+### Selected Research Examples
+
+Selected examples illustrating adaptive treatment of shock-dominated transient flows:
+
+- [Sod's Shock Tube Problem]({{ '/pages/research/sod' | relative_url }})
+- [Explosion Problem]({{ '/pages/research/explosion' | relative_url }})
+- [Shock Diffraction Problem]({{ '/pages/research/shockdiffraction' | relative_url }})
 
 ### Contact 
 
