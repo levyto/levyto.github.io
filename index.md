@@ -12,7 +12,7 @@ I am a postdoctoral researcher in the field of computational fluid dynamics at t
 
 ### Research Interests
 
-<div class="home-image ">
+<div class="home-image">
     <img src="{{ '/figs/vonkarman_crop.png' | relative_url }}" style="width: 410px; float: right; margin-top: -15px;">
 </div>
 

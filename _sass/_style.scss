@@ -150,7 +150,8 @@ blockquote p:last-child {
 
 .home-image {
   display: block;
-  max-width: $max-width;
+  max-width: 100%;
   height: auto;
   margin: 0 auto;
+  text-align: center;
 }
