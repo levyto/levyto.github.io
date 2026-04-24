@@ -100,8 +100,8 @@ blockquote p:last-child {
     max-width: $max-width;
     margin: auto;
     text-align: justify;
-    padding-left: 24px;
-    padding-right: 24px;
+    padding-left: 16px;
+    padding-right: 16px;
 }
 .wrapper {
     min-height: 100%;
@@ -150,7 +150,7 @@ blockquote p:last-child {
 
 .home-image {
   display: block;
-  max-width: 100%;
+  max-width: $max-width;
   height: auto;
   margin: 0 auto;
 }
