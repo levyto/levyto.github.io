@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Těžní klec
+title: KKE/D - Cvičení 12
 ---
 
 #### KME/D - Cvičení 12 
