@@ -293,6 +293,12 @@ blockquote p:last-child {
     display: block;
     color: DarkRed;
   }
+  table {
+    font-size: 0.85rem;
+  }
+  table th, table td {
+    padding: 0.35rem 0.45rem;
+  }
 }
 
 
@@ -301,7 +307,7 @@ blockquote p:last-child {
     float: none;
     display: block;
     width: 410px;
-    max-width: 80%;
+    max-width: 90%;
     height: auto;
     margin: -18px auto -25px auto;
   }
@@ -309,7 +315,7 @@ blockquote p:last-child {
     float: none;
     display: block;
     width: 410px;
-    max-width: 80%;
+    max-width: 90%;
     height: auto;
     margin: 0px auto 0px auto;
   }
