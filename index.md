@@ -26,6 +26,10 @@ I am a postdoctoral researcher in computational fluid dynamics at the Department
 
 The selected examples below illustrate several components of my work, including mesh prediction and anisotropic mesh adaptation in the context of time-dependent simulations with moving shocks:
 
+<div class="home-image">
+    <img src="{{ '/gifs/sod_main.gif' | relative_url }}" alt="Sod Shock Tube Problem">
+</div>
+
 - [Sod's Shock Tube Problem]({{ '/pages/research/sod' | relative_url }})
 - [Explosion Problem]({{ '/pages/research/explosion' | relative_url }})
 - [Shock Diffraction Problem]({{ '/pages/research/shockdiffraction' | relative_url }})
