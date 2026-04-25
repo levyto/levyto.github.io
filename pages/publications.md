@@ -163,7 +163,7 @@ title: Publications
             {% endfor %}
             
             <br>
-            <strong>{{ pub.title }}</strong><br>
+            <strong>{{ pub.title }}</strong>{% if pub.label and pub.label != "" %} <span class="pub-label">({{ pub.label }})</span>{% endif %}<br>
 
             <em>{{ pub.venue }}</em>{% if pub.year %}, {{ pub.year }}{% endif %}
             <br>

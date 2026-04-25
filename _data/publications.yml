@@ -12,8 +12,43 @@
   pdf: "https://drive.google.com/file/d/1zmbunDp0m-oRrjPL-NW94qpZt-KH2bsA/view"
   doi: ""
   slides: "https://drive.google.com/file/d/1B6oRIwIImJeCfFdV2ja2EKNG61TbhsUo/view?usp=sharing"
-  note: "PhD thesis"
+  note: "PhD Thesis"
   selected: true
+
+# - key: "rm-thesis"
+#   title: "A Time-Accurate High-Order Solver for Convection-Diffusion-Reaction Problems"
+#   authors:
+#     - "Tomáš Levý"
+#   type: "thesis"
+#   venue: "von Karman Institute for Fluid Dynamics"
+#   year: 2021
+#   month: 6
+#   address: "Rhode-Saint-Genèse, Belgium"
+#   school: "von Karman Institute for Fluid Dynamics"
+#   url: ""
+#   pdf: ""
+#   doi: ""
+#   slides: ""
+#   note: "Research Master Project Report"
+#   selected: false
+
+# - key: "master-thesis"
+#   title: "Modeling of compressible turbulent flows using suitable RANS turbulence models"
+#   label: "(in Czech)"
+#   authors:
+#     - "Tomáš Levý"
+#   type: "thesis"
+#   venue: "Faculty of Applied Sciences, University of West Bohemia"
+#   year: 2019
+#   month: 6
+#   address: "Pilsen, Czech Republic"
+#   school: "University of West Bohemia"
+#   url: ""
+#   pdf: "https://naos-be.zcu.cz/server/api/core/bitstreams/b82bb2a7-aaaa-47da-a0c2-d818de5c4cfd/content"
+#   doi: ""
+#   slides: ""
+#   note: "Master Thesis"
+#   selected: false
 
 
 
