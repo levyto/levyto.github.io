@@ -200,7 +200,16 @@ blockquote p:last-child {
   text-align: center;
 }
 
-.home-image img {
+.home-image-1 img {
+  width: 410px;
+  max-width: 100%;
+  height: auto;
+  float: right;
+  margin-top: -15px;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+.home-image-2 img {
   width: 410px;
   max-width: 100%;
   height: auto;
@@ -288,13 +297,21 @@ blockquote p:last-child {
 
 
 @media (max-width: 800px) {
-  .home-image img {
+  .home-image-1 img {
     float: none;
     display: block;
     width: 410px;
     max-width: 80%;
     height: auto;
-    margin: -15px auto -15px auto;
+    margin: -18px auto -25px auto;
+  }
+  .home-image-2 img {
+    float: none;
+    display: block;
+    width: 410px;
+    max-width: 80%;
+    height: auto;
+    margin: 0px auto 0px auto;
   }
 }
 

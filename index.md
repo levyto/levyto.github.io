@@ -12,7 +12,7 @@ I am a postdoctoral researcher in computational fluid dynamics at the Department
 
 ### Research Interests
 
-<div class="home-image">
+<div class="home-image-1">
     <img src="{{ '/figs/vonkarman_crop.png' | relative_url }}" alt="Von Karman">
 </div>
 
@@ -26,7 +26,7 @@ I am a postdoctoral researcher in computational fluid dynamics at the Department
 
 The selected examples below illustrate several components of my work, including mesh prediction and anisotropic mesh adaptation in the context of time-dependent simulations with moving shocks:
 
-<div class="home-image">
+<div class="home-image-2">
     <img src="{{ '/figs/mesh_main.jpg' | relative_url }}" alt="Adaptive Meshes in Explosion Problem">
 </div>
 <!-- <div class="home-image">
