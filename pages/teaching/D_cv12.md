@@ -29,13 +29,13 @@ $$
 m_c = m_2 + \frac{m_1}{3}.
 $$
 
-Zavedeme-li souřadnici $x(t)$ jako výchylku těžní klece od statické rovnovážné polohy, lze pohyb těžní klece popsat jako podélné kmitání soustavy s jedním stupněm volnosti, které je dáno následující homogenní lineární obyčejnou diferenciální rovnicí 2. řádu
+Zavedeme-li souřadnici $x(t)$ jako výchylku těžní klece od statické rovnovážné polohy (SRP), lze pohyb těžní klece popsat jako podélné kmitání soustavy s jedním stupněm volnosti, které je dáno homogenní lineární obyčejnou diferenciální rovnicí 2. řádu ve tvaru
 
 $$
 m_c\, \ddot{x} + b_c\, \dot{x} + k_c\, x = 0,
 $$
 
-kde $m_c$ označuje ekvivalentní hmotnost soustavy, $b_c$ je koeficient tlumení a $k_c$ je tuhost soustavy. Dále zavádíme **vlastní frekvenci** (netlumené) **soustavy** tak, že platí
+kde $m_c$ označuje ekvivalentní hmotnost soustavy, $b_c$ je koeficient tlumení a $k_c$ je tuhost soustavy. Dále zavádíme **vlastní frekvenci** (netlumené) **soustavy** $\Omega$ tak, že platí
 
 $$
 \frac{k_c}{m_c} = \Omega^2, \quad \frac{b_c}{m_c} = 2 D \Omega.
@@ -62,16 +62,16 @@ $$
 jejíž kořeny jsou
 
 $$
-\lambda_{1,2} = -D\Omega \pm  \Omega \sqrt{1 - D^2} \, \mathrm{i},
+\lambda_{1,2} = -D\Omega \pm  \Omega \sqrt{1 - D^2} \, \mathrm{i}.
 $$
 
-Zavedeme nyní **vlastní frekvenci tlumené soustavy**
+Zde zavedeme **vlastní frekvenci tlumené soustavy** $\Omega_D$ vztahem
 
 $$
 \Omega_D = \Omega \sqrt{1 - D^2}.
 $$
 
-Protože pro zadaný poměrný útlum platí $D < 1$, mají kořeny charakteristické rovnice nenulovou imaginární část a obecné řešení lze zapsat ve tvaru tlumených harmonických kmitů s&nbsp;exponenciálním útlumem
+Protože pro zadaný poměrný útlum platí $D < 1$, mají kořeny charakteristické rovnice nenulovou jak reálnou, tak imaginární část a obecné řešení lze zapsat ve tvaru harmonických kmitů s&nbsp;exponenciálním útlumem
 
 $$ 
   x(t) = \mathrm{e}^{-D\Omega t} \bigl( A \cos (\Omega_D t) + B \sin (\Omega_D t) \bigr).
@@ -101,13 +101,13 @@ $$
 
 ![Težní klec]({{ 'gifs/pr5.gif' | relative_url }})
 
-**Maximální síla v ocelovém laně** bude vznikat v bodě $A$, kde je lano zatíženo tíhovou silou klece, tíhovou silou celého lana a silou v pružném laně vyvolanou jeho maximálním prodloužením, tj.
+**Maximální síla v ocelovém laně** nastane v bodě $A$, kde je lano zatíženo tíhovou silou klece, tíhovou silou celého lana a silou v pružném laně vyvolanou jeho maximálním prodloužením, tj.
 
 $$
   F_{\mathrm{max}} = \left( m_1 + m_2 \right) g + k_1 x_{\mathrm{max}}.
 $$
 
-Tato síla nastává v okamžiku, kdy je výchylka těžní klece maximální, a tedy její rychlost je nulová, tj. $\dot{x}(t) = 0$.  Z&nbsp;výše uvedeného výrazu pro rychlost těžní klece roto získáme podmínku pro čas $t_\mathrm{max}$, v němž maximální síla nastává. Protože konstanta i exponenciální člen jsou pro $\forall t \geq 0$ , musí být splněna rovnost
+Tato síla nastává v okamžiku, kdy je výchylka těžní klece maximální, a tedy její rychlost je nulová, tj. $\dot{x}(t) = 0$.  Z&nbsp;výše uvedeného výrazu pro rychlost těžní klece proto získáme podmínku pro čas $t_\mathrm{max}$, v němž je maximální síly v laně dosaženo. Protože konstanta i exponenciální člen jsou pro $\forall t \geq 0$ nenulové, musí být splněna rovnost
 
 $$
 -D\Omega \sin (\Omega_D t) + \Omega_D \cos (\Omega_D t) = 0,
@@ -125,7 +125,7 @@ $$
   t_j = \frac{1}{\Omega_D} \arctan \left( \frac{\Omega_D}{D\Omega} \right) + j \frac{\pi}{\Omega_D}, \quad j = 0, 1, 2, \ldots
 $$
 
-Maximální výchylce těžní klece zřejmě odpovídá první z těchto hodnot, tedy pro $j=0$,
+Maximální výchylce těžní klece zřejmě odpovídá první z těchto hodnot, tj. $j=0$, tedy čas
 
 $$
   t_\mathrm{max} = \frac{1}{\Omega_D} \arctan \left( \frac{\Omega_D}{D\Omega} \right),

@@ -83,7 +83,7 @@
 </g>
 </g>
 <path fill="none" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 184 675.999625 C 190.953125 689.905875 201.785156 701.499625 215.1875 709.382438 " transform="matrix(1, 0, 0, -1, -179, 710.484)"/>
-<path fill-rule="evenodd" fill="rgb(0%, 0%, 0%)" fill-opacity="1" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 215.1875 709.382438 L 207.96875 707.843375 L 210.335938 703.82775 Z M 215.1875 709.382438 " transform="matrix(1, 0, 0, -1, -179, 710.484)"/>
+<path fill-rule="evenodd" fill="rgb(0%, 0%, 0%)" fill-opacity="1" stroke-width="1.2" stroke-linecap="butt" stroke-linejoin="round" stroke="rgb(0%, 0%, 0%)" stroke-opacity="1" stroke-miterlimit="10" d="M 215.1875 709.382438 L 207.972656 707.843375 L 210.335938 703.82775 Z M 215.1875 709.382438 " transform="matrix(1, 0, 0, -1, -179, 710.484)"/>
 <g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
 <use xlink:href="#glyph-0-1" x="145" y="66.484"/>
 </g>
@@ -99,7 +99,10 @@
 <use xlink:href="#glyph-1-0" x="127.745" y="157.064"/>
 </g>
 <g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
-<use xlink:href="#glyph-0-4" x="145" y="154.484"/>
+<use xlink:href="#glyph-0-4" x="145" y="154.482"/>
+</g>
+<g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
+<use xlink:href="#glyph-1-0" x="153.767" y="157.064"/>
 </g>
 <g clip-path="url(#clip-2)">
 <g fill="rgb(0%, 0%, 0%)" fill-opacity="1">
