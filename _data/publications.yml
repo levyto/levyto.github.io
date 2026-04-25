@@ -3,7 +3,7 @@
   authors:
     - "Tomáš Levý"
   type: "thesis"
-  venue: "University of West Bohemia"
+  venue: "Faculty of Applied Sciences, University of West Bohemia"
   year: 2025
   month: 8
   address: "Pilsen, Czech Republic"
@@ -14,6 +14,10 @@
   slides: "https://drive.google.com/file/d/1B6oRIwIImJeCfFdV2ja2EKNG61TbhsUo/view?usp=sharing"
   note: "PhD thesis"
   selected: true
+
+
+
+
 
 - key: "compfluids"
   title: "Towards a robust time-accurate anisotropically adaptive hybridized discontinuous Galerkin method"
@@ -33,25 +37,6 @@
   note: ""
   selected: true
 
-- key: "iccfd12"
-  title: "Towards Robust Time-Accurate Anisotropically Adaptive Hybridized Discontinuous Galerkin Method"
-  authors:
-    - "Tomáš Levý"
-    - "Georg May"
-  type: "conference"
-  venue: "ICCFD12 - The 12th International Conference on Computational Fluid Dynamics"
-  year: 2024
-  month: 7
-  volume: ""
-  number: ""
-  pages: ""
-  doi: ""
-  pdf: "https://www.iccfd.org/iccfd12/assets/pdf/papers/ICCFD12_Paper_8-C-01.pdf"
-  url: "https://www.iccfd.org/iccfd12/"
-  slides: "https://drive.google.com/file/d/1eNdJHWXzyuIn0PTDfICIXurQ5RqHRIlq/view?usp=sharing"
-  note: "Kobe, Japan"
-  selected: false
-
 - key: "ijnmf"
   title: "Conservative solution transfer between anisotropic meshes for time-accurate hybridized discontinuous Galerkin methods"
   authors:
@@ -69,26 +54,6 @@
   bib: "pages/publications/2024_IntJNumerMethFluids.bib"
   note: ""
   selected: true
-
-- key: "scitech"
-  title: "Conservative Solution Transfer Between Anisotropic Meshes for Adaptive Time-Accurate Hybridized Discontinuous Galerkin Methods"
-  authors:
-    - "Tomáš Levý"
-    - "Georg May"
-  type: "conference"
-  venue: "AIAA SCITECH 2023 Forum"
-  year: 2023
-  month: 1
-  volume: ""
-  number: ""
-  pages: "AIAA 2023-1794"
-  doi: "10.2514/6.2023-1794"
-  pdf: "https://drive.google.com/file/d/1TKXPqNkGn2u8ZEM8W7pRhVhlJY-dyCRi/view?usp=sharing"
-  url: "https://scitech.aiaa.org/"
-  bib: "pages/publications/2023_AIAASciTech.bib"
-  slides: "https://drive.google.com/file/d/1MhiGQ7_030d1ANc45I2mi1G61cvU2O0L/view?usp=sharing"
-  note: "National Harbor, Maryland, USA"
-  selected: false
 
 - key: "acm"
   title: "Comparison of implicit time-discretization schemes for hybridized discontinuous Galerkin methods"
@@ -108,4 +73,155 @@
   note: ""
   selected: false
 
-  
+
+
+
+- key: "iccfd12"
+  title: "Towards Robust Time-Accurate Anisotropically Adaptive Hybridized Discontinuous Galerkin Method"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "conference"
+  venue: "ICCFD12 - The 12th International Conference on Computational Fluid Dynamics"
+  sort_date: "2024-7"
+  year: 2024
+  month: 7
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  pdf: "https://www.iccfd.org/iccfd12/assets/pdf/papers/ICCFD12_Paper_8-C-01.pdf"
+  url: "https://www.iccfd.org/iccfd12/"
+  slides: "https://drive.google.com/file/d/1eNdJHWXzyuIn0PTDfICIXurQ5RqHRIlq/view?usp=sharing"
+  note: "Kobe, Japan, 14-19 July"
+  selected: false
+
+- key: "scitech"
+  title: "Conservative Solution Transfer Between Anisotropic Meshes for Adaptive Time-Accurate Hybridized Discontinuous Galerkin Methods"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "conference"
+  venue: "AIAA SCITECH 2023 Forum"
+  sort_date: "2023-1"
+  year: 2023
+  month: 1
+  volume: ""
+  number: ""
+  pages: "AIAA 2023-1794"
+  doi: "10.2514/6.2023-1794"
+  pdf: "https://drive.google.com/file/d/1TKXPqNkGn2u8ZEM8W7pRhVhlJY-dyCRi/view?usp=sharing"
+  url: "https://scitech.aiaa.org/"
+  bib: "pages/publications/2023_AIAASciTech.bib"
+  slides: "https://drive.google.com/file/d/1MhiGQ7_030d1ANc45I2mi1G61cvU2O0L/view?usp=sharing"
+  note: "National Harbor, Maryland, USA, 23-27 January"
+  selected: false
+
+- key: "vki15"
+  title: "Anisotropically Adaptive Hybridized Discontinuous Galerkin Solver for Time-Dependent Problems"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+    - "Jan Vimmr"
+  type: "conference"
+  venue: "15th Symposium of VKI PhD Research 2024"
+  sort_date: "2024-3"
+  year: 2024
+  month: 3
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  url: "https://www.vki.ac.be/index.php/events-ls/events/eventdetail/565/-/15th-symposium-of-vki-phd-research-2024"
+  bib: ""
+  slides: ""
+  note: "Sint-Genesius-Rode, Belgium, 12-15 March"
+  selected: false
+
+- key: "vki14"
+  title: "Conservative Solution Transfer Between Anisotropic Meshes for High-Order Methods"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+    - "Jan Vimmr"
+  type: "conference"
+  venue: "14th Symposium of VKI PhD Research 2023"
+  sort_date: "2023-3"
+  year: 2023
+  month: 3
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  url: "https://www.vki.ac.be/index.php/component/jevents/eventdetail/543/-/14th-symposium-of-vki-phd-research-2023"
+  bib: ""
+  slides: ""
+  note: "Sint-Genesius-Rode, Belgium, 7-10 March"
+  selected: false
+
+- key: "vki13"
+  title: "HDG Solver for Time-Dependent Conservation Laws"
+  label: "Poster"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+    - "Jan Vimmr"
+  type: "conference"
+  venue: "13th Symposium of VKI PhD Research 2022"
+  sort_date: "2022-2"
+  year: 2022
+  month: 2
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  url: "https://www.vki.ac.be/index.php/events-ls/events/eventdetail/531/-/online-on-site-13rd-symposium-of-vki-phd-research-2022"
+  bib: ""
+  slides: ""
+  note: "Sint-Genesius-Rode, Belgium, 23-25 February"
+  selected: false
+
+- key: "gacm"
+  title: "A Hybridized Discontinuous Galerkin Solver For Time-Dependent Balance Laws"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "conference"
+  venue: "9th GACM Colloquium on Computational Mechanics 2022"
+  sort_date: "2022-9"
+  year: 2022
+  month: 9
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  pdf: ""
+  url: "https://colloquia.gacm.de/2022/organisation"
+  bib: ""
+  slides: "https://drive.google.com/file/d/1_N4qa-VIegs30_wzkqiXMv1Ro-M1wg3Q/view?usp=sharing"
+  note: "Essen, Germany, 21-23 September"
+  selected: false
+
+- key: "topicalproblems"
+  title: "Developing Fully-Coupled Density-Based Solver for Turbulent Compressible Fluid Flows in OpenFOAM"
+  authors:
+    - "Tomáš Levý"
+    - "Jan Vimmr"
+  type: "conference"
+  venue: "Topical Problems of Fluid Mechanics 2020"
+  sort_date: "2020-1"
+  year: 2020
+  month: 1
+  volume: ""
+  number: ""
+  pages: ""
+  doi: "10.14311/TPFM.2020.017"
+  pdf: "https://tpfm.it.cas.cz/fm2015/im/admin/showfile/data/my/Papers/2020/17-TPFM2020.pdf"
+  url: ""
+  bib: ""
+  slides: "https://drive.google.com/file/d/11Z4ZuY8RS_oZOasbsPpMf9OQgJ1da5XS/view?usp=sharing"
+  note: "Prague, Czech Republic, 19-21 February"
+  selected: false

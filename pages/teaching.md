@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-## Předměty
+## Výuka
 
 ### Zimní semestr
 - KME/KIN - [Kinematika](https://portal.zcu.cz/ects/fakulty/FAV/KME/KIN?lang=cs)

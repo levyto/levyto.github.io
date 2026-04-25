@@ -24,7 +24,7 @@ I am a postdoctoral researcher in computational fluid dynamics at the Department
 
 ### Selected Research Examples
 
-Selected examples illustrating adaptive treatment of shock-dominated transient flows:
+The selected examples below illustrate several components of my work, including mesh prediction and anisotropic mesh adaptation in the context of time-dependent simulations with moving shocks:
 
 - [Sod's Shock Tube Problem]({{ '/pages/research/sod' | relative_url }})
 - [Explosion Problem]({{ '/pages/research/explosion' | relative_url }})
@@ -36,7 +36,7 @@ Selected examples illustrating adaptive treatment of shock-dominated transient f
 <br>
 [Faculty of Applied Sciences](https://www.fav.zcu.cz/en/)
 <br>
-[University of West Bohemia](https://www.zcu.cz/en/)
+[University of West Bohemia in Pilsen](https://www.zcu.cz/en/)
 <br>
 Technická 8
 <br>
