@@ -51,7 +51,7 @@ Technická 8
 <br>
 Czech Republic
 
-[<i class="fa fa-briefcase fa-1x"></i> UC 425 (FAV/NTIS building, 4th floor)](https://maps.app.goo.gl/WtZb6NePQ6JaTNGf7)
+[<i class="fa fa-briefcase fa-1x"></i> UC-425 (FAV/NTIS building, 4th floor)](https://maps.app.goo.gl/WtZb6NePQ6JaTNGf7)
 <br>
 [<i class="fa fa-envelope fa-1x"></i> levyto@fav.zcu.cz](mailto:levyto@fav.zcu.cz)
 

@@ -6,12 +6,15 @@ table {
 }
 table tr {
     border-top: 1px solid #cccccc;
-    background-color: WhiteSmoke;
+    background-color: #EADCCC;
     margin: 0;
     padding: 0;
 }
-table tr:nth-child(2n) {
-    background-color: #EBE4E2;
+table tr:nth-child(odd) {
+    background-color: #f4efe8;
+}
+table tr:nth-child(even) {
+  background-color: #eee5dd;
 }
 table tr th {
     background-color: #EBE4E2;
