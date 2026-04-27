@@ -22,33 +22,29 @@ The resulting adapted meshes show that the mesh-predictor strategy successfully 
 > - *Bottom right:*  elements where the solution transfer procedure is limited. 
 
 <div class="figure">
+  <img src="{{ '/figs/explosion/explosion1.png' | relative_url }}" class="framed-image" style="width: 400px;">
   <p class="figure-caption">
-    <img src="{{ '/figs/explosion/explosion1.png' | relative_url }}" class="framed-image" style="width: 400px;">
-    <br>
     Initial condition evaluated on the initial structured mesh with 512 elements based on which the first initial adaptation is performed.
   </p>
 </div>
 
 <div class="figure">
+  <img src="{{ '/figs/explosion/explosion2.png' | relative_url }}" class="framed-image" style="width: 400px;">
   <p class="figure-caption">
-    <img src="{{ '/figs/explosion/explosion2.png' | relative_url }}" class="framed-image" style="width: 400px;">
-    <br>
     Initial condition projected onto the initially adapted mesh obtained from the original coarse mesh. The adapted mesh has 4,000 elements and is refined near the initial discontinuity and serves as input to the first mesh-predictor iteration.
   </p>
 </div>
 
 <div class="figure">
+  <img src="{{ '/figs/explosion/explosion3.png' | relative_url }}" class="framed-image" style="width: 400px;">
   <p class="figure-caption">
-    <img src="{{ '/figs/explosion/explosion3.png' | relative_url }}" class="framed-image" style="width: 400px;">
-    <br>
     Initial condition evaluated on the mesh resulting from the first mesh-predictor step, illustrating the beginning of predictor-based mesh evolution.
   </p>
 </div>
 
 <div class="figure">
+  <img src="{{ '/gifs/explosion.gif' | relative_url }}" class="framed-image" style="width: 400px;">
   <p class="figure-caption">
-    <img src="{{ '/gifs/explosion.gif' | relative_url }}" class="framed-image" style="width: 400px;">
-    <br>
     Simulation of the explosion problem using the mesh-predictor approach. The mesh is adapted every adaptation interval $\Delta t_A = 0.005$ based on the predictor density field, with a maximum of 4,000 elements. 
   </p>
 </div>

@@ -12,9 +12,8 @@ This example considers the classical Sod shock tube problem for the Euler equati
 In this case, the initial discontinuity is located at $x = 0.5$ and the solution evolves in the domain $[0,1] \times [-0.05,0.05]$ up to the final time $T = 0.25$. Initially, the discontinuous initial condition is projected onto a uniform coarse mesh used as the starting mesh for the solver.
 
 <div class="figure">
+  <img src="{{ '/figs/sod/sod1.png' | relative_url }}" class="framed-image" style="width: 450px;">
   <p class="figure-caption">
-    <img src="{{ '/figs/sod/sod1.png' | relative_url }}" class="framed-image" style="width: 450px;">
-    <br>
     Initial condition for the Sod's shock tube problem on initial uniform coarse mesh with 1,200 elements. The upper panel shows discontinuity detection and the corresponding region where projection limiting is applied.
   </p>
 </div>
@@ -22,9 +21,8 @@ In this case, the initial discontinuity is located at $x = 0.5$ and the solution
 The initial projection then serves as input to the initial anisotropic mesh adaptation, which produces the first initially adapted mesh shown below. This mesh and the corresponding projected initial condition are then used as input for the first time step of the simulation.
 
 <div class="figure">
+  <img src="{{ '/figs/sod/sod2.png' | relative_url }}" class="framed-image" style="width: 450px;">
   <p class="figure-caption">
-    <img src="{{ '/figs/sod/sod2.png' | relative_url }}" class="framed-image" style="width: 450px;">
-    <br>
     Initial condition for the Sod's shock tube problem on initially adapted anisotropic mesh with 1,000 elements. 
   </p>
 </div>
@@ -34,9 +32,8 @@ In the present context, the main role of this example is to illustrate the impor
 The computation is performed with polynomial degree $p = 2$ and the Backward Euler method with $\mathrm{CFL}=1$ up to the final time $T = 0.25$. Starting from a uniform mesh of 1,200 elements, the adapted mesh is restricted to at most 1,000 elements. The resulting mesh evolution shows that the predictor-based strategy is able to follow the travelling discontinuities in a stable and physically consistent manner, while maintaining a low overall number of elements.
 
 <div class="figure">
+  <img src="{{ '/gifs/sod.gif' | relative_url }}" class="framed-image" style="width: 450px;">
   <p class="figure-caption">
-    <img src="{{ '/gifs/sod.gif' | relative_url }}" class="framed-image" style="width: 450px;">
-    <br>
     Simulation of the Sod shock tube problem using the mesh-predictor approach. The mesh is adapted every adaptation interval $\Delta t_A = 0.025$ based on the predictor solution, with a maximum of 1,000 elements. Resolution is concentrated near the shock wave, the contact discontinuity, and the rarefaction region, while smooth parts of the solution remain comparatively coarse.
   </p>
 </div>

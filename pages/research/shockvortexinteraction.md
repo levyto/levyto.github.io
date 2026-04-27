@@ -18,9 +18,8 @@ Compared with a static uniform coarse-mesh computation, the adaptive solution ac
 <!-- <img src="{{ '/gifs/shockvortex.gif' | relative_url }}" class="framed-image"> -->
 
 <div class="figure">
+  <img src="{{ '/gifs/shockvortex2.gif' | relative_url }}" class="framed-image" style="width: 400px;">
   <p class="figure-caption">
-    <img src="{{ '/gifs/shockvortex2.gif' | relative_url }}" class="framed-image" style="width: 400px;">
-    <br>
     Simulation of the shock-vortex interaction. Comparison of results on uniform triangular mesh with 11,000 elements (top) and adaptive mesh with at most 2,000 elements (bottom). The mesh is refined automatically near the stationary shock and in the region affected by the passing vortex.
   </p>
 </div>

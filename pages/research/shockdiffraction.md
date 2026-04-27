@@ -14,9 +14,8 @@ In the present setting, the mesh is adapted according to the magnitude of the ga
 To address this issue, a simple strategy was introduced to dynamically adjust the number of mesh elements during the computation. The adjustment is based on the total area in which the shock sensor is active, so that the number of mesh elements increases when the shock-dominated region expands. The resulting simulations show that this approach provides a more appropriate distribution of resolution in the later stages of the flow and improves the representation of the developing wave pattern.
 
 <div class="figure">
+  <img src="{{ '/gifs/shockdiffraction.gif' | relative_url }}" class="framed-image" style="width: 500px;">
   <p class="figure-caption">
-    <img src="{{ '/gifs/shockdiffraction.gif' | relative_url }}" class="framed-image" style="width: 500px;">
-    <br>
     Simulation of the Mach 2 shock diffraction problem using the mesh-predictor approach. The number of mesh elements is adjusted dynamically according to the total area where the shock sensor is active, starting from 2,000 elements and increasing up to 9,600 as the shock-dominated region expands.
   </p>
 </div>
