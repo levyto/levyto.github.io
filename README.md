@@ -1,6 +1,6 @@
 Made using `jekyll`: [jekyllrb.com](https://jekyllrb.com/)
 
 ```bash
-bundle exec jekyll serve
+bundle exec jekyll server
 ```
 

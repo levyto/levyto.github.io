@@ -109,7 +109,25 @@
   selected: false
 
 
-
+- key: "iccfd13"
+  title: "High-Order Conservative Solution Transfer for Anisotropically Adapted Tetrahedral Meshes"
+  authors:
+    - "Tomáš Levý"
+    - "Georg May"
+  type: "conference"
+  venue: "ICCFD13 - The 13th International Conference on Computational Fluid Dynamics"
+  sort_date: "2026-7"
+  year: 2026
+  month: 7
+  volume: ""
+  number: ""
+  pages: ""
+  doi: ""
+  # pdf: "https://www.iccfd.org/iccfd12/assets/pdf/papers/ICCFD12_Paper_8-C-01.pdf"
+  url: "https://easychair.org/smart-program/ICCFD13/index.html"
+  # slides: "https://drive.google.com/file/d/1eNdJHWXzyuIn0PTDfICIXurQ5RqHRIlq/view?usp=sharing"
+  note: "Milan, Italy, 6-10 July"
+  selected: false
 
 - key: "iccfd12"
   title: "Towards Robust Time-Accurate Anisotropically Adaptive Hybridized Discontinuous Galerkin Method"
