@@ -39,7 +39,7 @@ The selected examples below illustrate several components of my work, including 
 
 ### Education
 
-- 2019 – 2025&nbsp;&nbsp;&nbsp;**Ph.D. in Applied Mechanics**   
+- 2019 – 2026&nbsp;&nbsp;&nbsp;**Ph.D. in Applied Mechanics**   
   Faculty of Applied Sciences, University of West Bohemia  
   Dissertation:&nbsp;&nbsp;*Adaptive Hybridized Discontinuous Galerkin Method for Time-Dependent Compressible Fluid Flow Problems*
 
